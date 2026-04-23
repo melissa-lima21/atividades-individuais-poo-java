@@ -1,6 +1,6 @@
 # Atividades Individuais - POO em Java
 **Melissa Lima**
-## Exercícios
+
 ### 1. Simulador de Caixa Eletrônico
  * **Foco:** Lógica procedural (switch, do-while).
  * **Regra:** Controle de limites de saques diários e validação de valores máximos por operação.
